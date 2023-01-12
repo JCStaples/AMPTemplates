@@ -5,7 +5,7 @@
         "Description": "Password to connect to RCON. Change this after installing the server",
         "Keywords": "RCON,password",
         "FieldName": "$RemoteAdminPassword",
-        "InputType": "RandomPassword",
+        "InputType": "password",
         "IsFlagArgument": false,
         "ParamFieldName": "$RemoteAdminPassword",
         "IncludeInCommandLine": false,
